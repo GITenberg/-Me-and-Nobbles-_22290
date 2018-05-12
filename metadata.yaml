@@ -1,0 +1,33 @@
+_repo: -Me-and-Nobbles-_22290
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Feuvre, Amy
+    alias: Feuvre, Amy Le
+    deathdate: 1929
+    gutenberg_agent_id: '3736'
+    url: http://www.gutenberg.org/2009/agents/3736
+description: Bobby loves to look through the old Italian leather Bible in his house.  His
+  favorite page is the picture of the golden gates guarded by angels, and the happy
+  people all dressed in white robes.  But Bobby wonders about the crying people kept
+  outside, and he is determined to find out how he can get a clean white robe to enter
+  those golden gates.
+gutenberg_issued: '2007-08-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22290'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boys -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Staffs (Sticks, canes, etc.) -- Juvenile fiction'
+- !lcsh 'Fathers and sons -- Juvenile fiction'
+- !lcc 'PZ'
+title: '''Me and Nobbles'''
+url: http://www.gutenberg.org/ebooks/22290
